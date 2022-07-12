@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.vasim1422.livetemplate7peaks
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls

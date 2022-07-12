@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.vasim1422.livetemplate7peaks
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile
